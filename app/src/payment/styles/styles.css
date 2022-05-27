@@ -257,7 +257,7 @@ select {
   margin-bottom: 20px;
 } */
 
-.agen-bank, .instruction, .nominal, #virtual-acc-num{
+.agen-bank, .instruction, .input-nominal, #virtual-acc-num{
   margin: 5px 0 20px 0;
 }
 
@@ -292,7 +292,7 @@ select,
   grid-area: select;
 }
 
-.nominal{
+.input-nominal{
   display: flex;
   flex-direction: column;
 }
