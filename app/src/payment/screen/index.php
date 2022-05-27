@@ -53,6 +53,10 @@
         <div class="main-content">
             <div class="content">
                 <div class="input">
+                    <div class="input-nominal">
+                        <label for="input-nominal">Nominal</label>
+                        <input type="text" name="input-nominal" id="input-nominal" placeholder="Rp. 0">
+                    </div>
                     <div class="virtual-acc-input">
                         <label for="virtual-acc-num">Nomor akun virtual</label>
                         <input type="text" name="virtual-acc-num" id="virtual-acc-num" disabled value="">
